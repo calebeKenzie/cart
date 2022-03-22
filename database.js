@@ -1,0 +1,50 @@
+const dados = [
+  {
+    id: 1,
+    imgSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT58PbwgrIHnfBiZ9pkQ0Qh6P_44JacdnUonA&usqp=CAU",
+    filtro: "jaquetas",
+    nome: "Lightweight Jacket",
+    descricao: "Adicione um pouco de energia ao seu guarda roupa de inverno com esta linda jaqueta.",
+    preco: 200.00,
+  },
+  {
+    id: 2,
+    imgSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW5SJFTtWkiy59OLnMKUwNPawmwexdHLOZAg&usqp=CAU",
+    filtro: "acessorios",
+    nome: "Black Hat",
+    descricao: "O gorro Next.js chegou! Esta beldade bordada tem um ajuste confortável que garante que...",
+    preco: 100.00,
+  },
+  {
+    id: 3,
+    imgSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-Ci97wHbQW44aWDeNPHDTkeMgNfbRQ3HQyg&usqp=CAU",
+    filtro: "acessorios",
+    nome: "Mask",
+    descricao: "Esta máscara facial durável é feita de duas camadas de tecido tratado e possui presilhas...",
+    preco: 100.00,
+  },
+  {
+    id: 4,
+    imgSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBBlwCByAiQy4xZSZFdUTT2B0pTd_01kB6fQ&usqp=CAU",
+    filtro: "camisetas",
+    nome: "T-Shirt",
+    descricao: "Esta t-shirt é imprescindível no seu guarda-roupa, combinando o caimento intemporal de...",
+    preco: 100.00,
+  },
+  {
+    id: 5,
+    imgSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdNZ_ZH2InmE3xoubq3kl0eL5NUMuGgZYsAA&usqp=CAU",
+    filtro: "camisetas",
+    nome: "Short-Sleeve T-shirt",
+    descricao: "Agora você encontrou a camiseta básica do seu guarda-roupa. É feito de um mais grosso...",
+    preco: 100.00,
+  },
+  {
+    id:6 ,
+    imgSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmZ1anONxUlecZznASAdXA5WAQ6BIPg1Bz9t5iM-A4O4A1s88e9rKWtdw9Ss-h6L3EEMc&usqp=CAU",
+    filtro: "jaquetas",
+    nome: "Champion Packable Jacket",
+    descricao: "Proteja-se dos elementos com esta jaqueta embalável Champion. Esta jaqueta de poliést...",
+    preco: 250.00,
+  }
+];
