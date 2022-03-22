@@ -1,2 +1,2 @@
 # cart
-# Explicação platão tira dúvidas
+# Explicação plantão tira dúvidas
